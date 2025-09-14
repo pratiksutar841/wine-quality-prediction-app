@@ -7,6 +7,8 @@ A Streamlit web application that predicts wine quality using machine learning. I
 <p>
 The goal of this project is to build a <b>machine learning web app</b> that predicts the <b>quality of wine</b> based on its physicochemical properties.  
 The app helps <b>winemakers, laboratories, and enthusiasts</b> quickly assess wine quality using data-driven predictions.
+### 🚀 [**Live Demo on Streamlit Cloud**](https://wine-quality-prediction-appgit-35djgdj8hdmxyxgefqhrcm.streamlit.app/)
+
 </p>
 
 <p align="center">
