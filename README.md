@@ -10,7 +10,7 @@ The app helps <b>winemakers, laboratories, and enthusiasts</b> quickly assess wi
 </p>
 
 <p align="center">
-  <img src="https://github.com/pratiksutar841/wine-quality-prediction-app/blob/main/assets/wine_dashboard.png" alt="Wine Quality App Dashboard" width="800">
+  <img src="https://github.com/pratiksutar841/wine-quality-prediction-app/blob/3f8febd5c1643ceb7d1e053b50199ca4f5e3f65b/Wine-Prediction-1.png" alt="Wine Quality App Dashboard" width="800">
 </p>
 
 <hr>
@@ -111,7 +111,7 @@ Wine quality assessment is traditionally done through <b>sensory analysis by exp
 
 <h2>📷 App Screenshots</h2>
 <p align="center">
-  <img src="https://github.com/pratiksutar841/wine-quality-prediction-app/blob/main/assets/app_preview1.png" alt="Wine Quality App UI - Input" width="800"><br><br>
+  <img src="https://github.com/pratiksutar841/wine-quality-prediction-app/blob/3f8febd5c1643ceb7d1e053b50199ca4f5e3f65b/Wine-Prediction-1.png" alt="Wine Quality App UI - Input" width="800"><br><br>
   <img src="https://github.com/pratiksutar841/wine-quality-prediction-app/blob/main/assets/app_preview2.png" alt="Wine Quality App UI - Output" width="800"><br><br>
   <img src="https://github.com/pratiksutar841/wine-quality-prediction-app/blob/main/assets/app_preview3.png" alt="Wine Quality App UI - Charts" width="800">
 </p>
