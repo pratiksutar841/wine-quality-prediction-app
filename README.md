@@ -113,7 +113,7 @@ Wine quality assessment is traditionally done through <b>sensory analysis by exp
 <p align="center">
   <img src="https://github.com/pratiksutar841/wine-quality-prediction-app/blob/3f8febd5c1643ceb7d1e053b50199ca4f5e3f65b/Wine-Prediction-1.png" alt="Wine Quality App UI - Input" width="800"><br><br>
   <img src="https://github.com/pratiksutar841/wine-quality-prediction-app/blob/1a642e6ff4918f760a7637f31b669ae37cff2fa0/Wine-Prediction-2.png" alt="Wine Quality App UI - Output" width="800"><br><br>
-  <img src="https://github.com/pratiksutar841/wine-quality-prediction-app/blob/main/assets/app_preview3.png" alt="Wine Quality App UI - Charts" width="800">
+  <img src="https://github.com/pratiksutar841/wine-quality-prediction-app/blob/d65d4a0707770090d866e01ba3ad46c1e2b9a469/Wine-Prediction-3.png" alt="Wine Quality App UI - Charts" width="800">
 </p>
 
 <hr>
