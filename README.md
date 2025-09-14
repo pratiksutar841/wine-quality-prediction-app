@@ -2,12 +2,18 @@
 A Streamlit web application that predicts wine quality using machine learning. Includes data preprocessing, model training (Random Forest), and interactive visualizations using Matplotlib and Plotly. Users can input wine chemical properties and instantly get quality predictions, along with graphical insights about the dataset.
 
 <h1>🍷 Wine Quality Prediction App</h1>
+<p>
+🔗 <b>Live Demo:</b> 
+<a href="https://wine-quality-prediction-appgit-35djgdj8hdmxyxgefqhrcm.streamlit.app/" target="_blank">
+Click here to try the app on Streamlit Cloud
+</a>
+</p>
 
 <h2>📌 Project Objective</h2>
 <p>
 The goal of this project is to build a <b>machine learning web app</b> that predicts the <b>quality of wine</b> based on its physicochemical properties.  
 The app helps <b>winemakers, laboratories, and enthusiasts</b> quickly assess wine quality using data-driven predictions.
-### 🚀 [**Live Demo on Streamlit Cloud**](https://wine-quality-prediction-appgit-35djgdj8hdmxyxgefqhrcm.streamlit.app/)
+
 
 </p>
 
