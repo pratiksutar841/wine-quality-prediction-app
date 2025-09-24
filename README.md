@@ -1,9 +1,15 @@
-# wine-quality-prediction-app
-A Streamlit web application that predicts wine quality using machine learning. Includes data preprocessing, model training (Random Forest), and interactive visualizations using Matplotlib and Plotly. Users can input wine chemical properties and instantly get quality predictions, along with graphical insights about the dataset.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wine Quality Prediction App</title>
+</head>
+<body>
 
 <h1>🍷 Wine Quality Prediction App</h1>
-<p>
-🔗 <b>Live Demo:</b> 
+
+<p>🔗 <b>Live Demo:</b> 
 <a href="https://wine-quality-prediction-appgit-35djgdj8hdmxyxgefqhrcm.streamlit.app/" target="_blank">
 Click here to try the app on Streamlit Cloud
 </a>
@@ -11,14 +17,13 @@ Click here to try the app on Streamlit Cloud
 
 <h2>📌 Project Objective</h2>
 <p>
-The goal of this project is to build a <b>machine learning web app</b> that predicts the <b>quality of wine</b> based on its physicochemical properties.  
+The goal of this project is to build a <b>machine learning web app</b> that predicts the <b>quality of wine</b> based on its physicochemical properties.<br>
 The app helps <b>winemakers, laboratories, and enthusiasts</b> quickly assess wine quality using data-driven predictions.
-
-
 </p>
 
 <p align="center">
-  <img src="https://github.com/pratiksutar841/wine-quality-prediction-app/blob/3f8febd5c1643ceb7d1e053b50199ca4f5e3f65b/Wine-Prediction-1.png" alt="Wine Quality App Dashboard" width="800">
+  <img src="https://github.com/pratiksutar841/wine-quality-prediction-app/blob/3f8febd5c1643ceb7d1e053b50199ca4f5e3f65b/Wine-Prediction-1.png" 
+  alt="Wine Quality App Dashboard" width="800">
 </p>
 
 <hr>
@@ -39,7 +44,7 @@ Wine quality assessment is traditionally done through <b>sensory analysis by exp
 
 <h2>📂 Project Structure</h2>
 <pre>
-📁 wine-quality-prediction-app
+wine-quality-prediction-app/
 │── app.py                             # Main Streamlit web app
 │── winequality.csv                    # Dataset file
 │── model.pkl                          # Trained ML model
@@ -119,9 +124,12 @@ Wine quality assessment is traditionally done through <b>sensory analysis by exp
 
 <h2>📷 App Screenshots</h2>
 <p align="center">
-  <img src="https://github.com/pratiksutar841/wine-quality-prediction-app/blob/3f8febd5c1643ceb7d1e053b50199ca4f5e3f65b/Wine-Prediction-1.png" alt="Wine Quality App UI - Input" width="800"><br><br>
-  <img src="https://github.com/pratiksutar841/wine-quality-prediction-app/blob/1a642e6ff4918f760a7637f31b669ae37cff2fa0/Wine-Prediction-2.png" alt="Wine Quality App UI - Output" width="800"><br><br>
-  <img src="https://github.com/pratiksutar841/wine-quality-prediction-app/blob/d65d4a0707770090d866e01ba3ad46c1e2b9a469/Wine-Prediction-3.png" alt="Wine Quality App UI - Charts" width="800">
+  <img src="https://github.com/pratiksutar841/wine-quality-prediction-app/blob/3f8febd5c1643ceb7d1e053b50199ca4f5e3f65b/Wine-Prediction-1.png" 
+  alt="Wine Quality App UI - Input" width="800"><br><br>
+  <img src="https://github.com/pratiksutar841/wine-quality-prediction-app/blob/1a642e6ff4918f760a7637f31b669ae37cff2fa0/Wine-Prediction-2.png" 
+  alt="Wine Quality App UI - Output" width="800"><br><br>
+  <img src="https://github.com/pratiksutar841/wine-quality-prediction-app/blob/d65d4a0707770090d866e01ba3ad46c1e2b9a469/Wine-Prediction-3.png" 
+  alt="Wine Quality App UI - Charts" width="800">
 </p>
 
 <hr>
@@ -151,3 +159,6 @@ B.Tech in Computer Science & Engineering (Data Science)<br>
 GitHub: <a href="https://github.com/pratiksutar841">pratiksutar841</a><br>
 LinkedIn: <a href="https://www.linkedin.com/in/pratik-sutar-/">Pratik Sutar</a>
 </p>
+
+</body>
+</html>
